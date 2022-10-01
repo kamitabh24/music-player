@@ -1,5 +1,5 @@
 # Music Player
-An online music player completely based on HTML, CSS and JavaScript
+An online music player completely based on HTML, CSS and JavaScript Gui
 
 ## License
 CC0 1.0 Universal
